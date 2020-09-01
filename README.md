@@ -1,18 +1,18 @@
-# rent
+# ReadMe
 ## What it is about
 This is a website project that lets users book rooms of their choice and pay as indicated.
 It has been made and designed by a world class professional developer and is the best 5 Star Hotel website design out there.
-*To view the website,click this link https://jasongithui.github.io/rent
+* To view the website,click this link https://jasongithui.github.io/rent
 ## Setup/Developing
-*Create a Folder
-*Clone the repo in the folder,
+* Create a Folder
+* Clone the repo in the folder,
  git clone https://github.com/jasongithui/rent.git
-*Open index.html in a browser
+* Open index.html in a browser
 
-*NB,
+* NB,
 If you think you can develop it,email me at jasongithui@gmail.com
 
-##LICENSE
+## LICENSE
 
 MIT License
 
